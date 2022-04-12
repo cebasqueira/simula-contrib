@@ -40,4 +40,11 @@
 
   .slider-bloco {
     width: 195px;
+    margin: 0px;
+  }
+
+  @media screen and (max-width: 479px) {
+    .slider-bloco {
+      margin: 15px 0;
+    }
   }
