@@ -1,6 +1,6 @@
 (function($){
 
-  var tx_usb = 519.07; //Monetário
+  var tx_usb = 543.83; //Monetário
 
   var methods = {
     calculoBasicaAbaixo : function(salario, taxa, taxa_vol) {
